@@ -1,0 +1,45 @@
+{
+	"resultado": {
+		 "data": [ {
+		"active":1,
+		"description": "COBACH",
+		"companyId": 1,
+		"sector":{
+			"sectorId": 1,
+			"description": "HOSPITAL REGIONAL"
+		},
+		"stateMexico":{
+			"stateId": 1,
+			"description": "AGUASCALIENTES"
+		}},
+		{
+		"active":1,
+		"description": "HOSPITAL REGIONAL",
+		"companyId": 2,
+		"sector":{
+			"sectorId": 1,
+			"description": "SALUD"
+		},
+		"stateMexico":{
+			"stateId": 1,
+			"description": "AGUASCALIENTES"
+		}},
+		{
+		"active":1,
+		"description": "HOSPITAL REGIONAL",
+		"companyId": 3,
+		"sector":{
+			"sectorId": 1,
+			"description": "SALUD"
+		},
+		"stateMexico":{
+			"stateId": 1,
+			"description": "AGUASCALIENTES"
+		}}
+
+	],
+
+ 	"codeHttpStatus" : 200
+	}
+}
+
